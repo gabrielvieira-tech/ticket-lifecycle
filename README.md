@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Start by creating a ticket as an end-user reporting that the entire mobile/online banking system is down. Then, log in as Help Desk Agent “john” and open the ticket to observe its current properties: Priority, Department, SLA, and Assigned To. Set the ticket’s SLA to Sev-A (1-hour grace period, 24/7 coverage) and assign it to the Sysadmin Department. Try to view or modify the ticket again as john—since the ticket is now under a restricted department, you’ll no longer have access.
+Start by creating a ticket as an end-user reporting that the entire mobile/online banking system is down. Then, log in as Help Desk Agent “john” and open the ticket to observe its current properties: Priority, Department, SLA, and Assigned To. Set the ticket’s SLA to Sev-A (1-hour grace period, 24/7 coverage) and assign it to the SysAdmins Department. Try to view or modify the ticket again as john—since the ticket is now under a restricted department, you’ll no longer have access.
 <br />
 
 <p>
