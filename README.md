@@ -36,27 +36,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Start by creating a ticket as an end-user reporting that the entire mobile/online banking system is down. Then, log in as Help Desk Agent “john” and open the ticket to observe its current properties: Priority, Department, SLA, and Assigned To. Set the ticket’s SLA to Sev-A (1-hour grace period, 24/7 coverage) and assign it to the SysAdmins Department. Try to view or modify the ticket again as john—since the ticket is now under a restricted department, you’ll no longer have access.
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1456" height="604" alt="Step 2 Done" src="https://github.com/user-attachments/assets/5cf92378-9a91-46d5-9767-f52f3bfc25ae" />
+
+
 <p>
 Go to the Admin Panel and give yourself (john) view access to the SysAdmins department, which includes the Online Banking team. Return to the Agent Panel—you’ll now be able to see the ticket but still won’t be able to change it. Switch to Agent “jane,” who is part of the SysAdmins department, and resolve the ticket from her account.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1479" height="617" alt="Step 3 Done" src="https://github.com/user-attachments/assets/93fb0f3d-8da1-42bc-946d-31eefe042ad1" />
+
+
 <p>
 As the end-user, submit a second ticket stating the accounting department needs an Adobe upgrade and it's currently broken. Log in as john, view the ticket, and assign it the Sev-B SLA (4-hour grace period, 24/7) and the Support(Help Desk) department If not alredy in it. Work and complete this ticket as john.
 Then, create a third ticket as the end-user stating that the CFO’s laptop will no longer power on. Again, as john, observe and set the properties—apply the Sev-B SLA and assign it to Support(Help Desk) Resolve this ticket as well.
 </p>
 <br />
 
-<br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1274" height="538" alt="Step 4 Done" src="https://github.com/user-attachments/assets/c4bec42d-dc7e-466e-b8e9-12f0be6aaea6" />
+
+
 <p>
 Complete all tickets accordingly. In real-world environments, ticket intake doesn’t always happen through the system interface—requests can come from phone calls, chat apps, emails, web forms, or even someone stopping you in the hallway. It’s common for people to ask for help directly, and while it's fine to fix things immediately, you should always log tickets for every task you perform. This ensures transparency, helps with tracking workload, and supports performance metrics, which are essential for proper IT service management.
 </p>
