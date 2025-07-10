@@ -48,7 +48,7 @@ Go to the Admin Panel and give yourself (john) view access to the SysAdmins depa
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As the end-user, submit a second ticket stating the accounting department needs an Adobe upgrade and it's currently broken. Log in as john, view the ticket, and assign it the Sev-B SLA (4-hour grace period, 24/7) and the Support department. Work and complete this ticket as john.
+As the end-user, submit a second ticket stating the accounting department needs an Adobe upgrade and it's currently broken. Log in as john, view the ticket, and assign it the Sev-B SLA (4-hour grace period, 24/7) and the Support(Help Desk) department. Work and complete this ticket as john.
 Then, create a third ticket as the end-user stating that the CFO’s laptop will no longer power on. Again, as john, observe and set the properties—apply the Sev-B SLA and assign it to Support. Resolve this ticket as well.
 </p>
 <br />
